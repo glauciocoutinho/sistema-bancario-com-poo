@@ -7,11 +7,11 @@ O código deve seguir o modelo de classes UML.
 Funcionalidades como classe
 Todas as funcionalidades devem ser implementadas como classe:
 
-Conta
-ContaCorrente
-Histórico
-Cliente
-PessoaFisica
-Transacao (Interface)
-Deposito
-Saque
+Conta,
+ContaCorrente,
+Histórico,
+Cliente,
+PessoaFisica,
+Transacao (Interface),
+Deposito e
+Saque.
